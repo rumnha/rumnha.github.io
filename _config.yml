@@ -14,8 +14,7 @@ color:
 social:
   - title: twitter
     url: http://twitter.com/rumnha
-  - title: github
-    url: http://github.com/rumnha	
+
 # Postal address (add as many lines as necessary)
 # Build settings
 markdown: kramdown
